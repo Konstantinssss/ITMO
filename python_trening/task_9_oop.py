@@ -68,5 +68,3 @@ class Dog(Mammal):
 
 dog = Dog()
 print(dog.className)
-
-from task_9_checks import Checks:

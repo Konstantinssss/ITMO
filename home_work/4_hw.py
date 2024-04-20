@@ -1,3 +1,5 @@
+#Задание 1
+
 class Rectangle:
 
     def __init__(self, widht, height):
@@ -21,6 +23,8 @@ print(rec2.perimeter())
 print(rec3.perimeter())
 print("\n")
 
+#Задание 2
+
 class Math:
 
     def __init__(self, a, b):
@@ -40,6 +44,8 @@ print(resultat.addition())
 print(resultat.multiplication())
 print(resultat.division())
 print(resultat.subtraction())
+
+#Задание 3
 
 class Button:
 
@@ -83,6 +89,7 @@ print(Broken_Link_Images.click())
 print(Dynamic_properties.click())
 
 # Доп*
+#Задание 4
 
 class Car:
 
